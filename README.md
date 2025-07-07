@@ -15,3 +15,7 @@ A página coffeeshop foi o quarto projeto realizado no programa de desenvolvimen
 ### Plano de melhorias
 
 Pretendo acrescentar páginas com diferentes recursos, como: uma página só de receitas com mais variedades e uma página de produtos da própria marca. Planejo acrescentar também mais detalhes com fotos e áudio descrição e trabalhar na parte de funcionalidades para facilitar ainda mais para os clientes, assim chamando mais atenção para o site.
+
+#### Link do site
+
+link: https://renatojr08.github.io/web_project_coffeeshop/
